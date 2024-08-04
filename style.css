@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    background-color: #ddd;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.vid{
+    height: 300vh;
+}
+
+footer{
+    text-align: center;
+    background-color: #ddd;
+    font-size: 30px;
+    padding: 20px;
+}
